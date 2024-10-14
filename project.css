@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+.image {
+  height: 18rem;
+  width: 18rem;
+  display: block;
+
+}
+
+.style {
+  font-family: 'Times New Roman', Times, serif;
+  color: #07010e;
+}
+
+.class {
+  align-items: center;
+}
